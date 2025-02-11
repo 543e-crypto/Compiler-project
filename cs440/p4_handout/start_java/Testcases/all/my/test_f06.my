@@ -1,0 +1,10 @@
+def func1(x, y, z):
+  result = x+y
+  z = z*4
+  result = result + z
+  return result
+fed
+
+print(func1(1,2,3))
+x = func1(3,4,2)
+print(x)

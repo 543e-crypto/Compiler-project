@@ -1,0 +1,5 @@
+!uncomment the first print to get a more user-friendly prompt
+!print("Input a number: ")
+x = input() !need to type in an integer
+print(1-(x*2)) !use x in calculation
+

@@ -1,0 +1,31 @@
+calling func1(1, 2, 3, 4, 5, 6)
+=> IN func1:
+First Param
+1
+Sum
+21
+=> IN func2:
+First Param
+2
+Sum
+21
+=> IN func3:
+First Param
+3
+Sum
+21
+=> IN func4:
+First Param
+4
+Sum
+21
+=> IN func5:
+First Param
+5
+Sum
+21
+=> IN func6:
+First Param
+6
+Sum
+21

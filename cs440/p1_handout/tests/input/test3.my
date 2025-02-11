@@ -1,0 +1,8 @@
+x = 1 + 23 - 45 
+y == 600000 
+
+1 >= 00123 !scanner would take the rhs as three numbers 0,0,123
+<=<<> !three operators: <=, <, <> 
+!lex would try to construct tokens as long as possible
+< = !two operators with space as the delimiter 
+

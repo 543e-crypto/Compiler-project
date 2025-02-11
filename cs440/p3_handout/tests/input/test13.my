@@ -1,0 +1,9 @@
+s = "hello"
+x = 1
+b1 = true
+y = x
+z = y
+t = s
+b2 = b1
+! only copying
+

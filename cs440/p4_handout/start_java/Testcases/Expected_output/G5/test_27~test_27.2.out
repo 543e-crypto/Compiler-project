@@ -1,0 +1,70 @@
+Enter two numbers:
+Initial values:
+123456
+789012
+b >= a, subtracting a from b. New b is:
+665556
+b >= a, subtracting a from b. New b is:
+542100
+b >= a, subtracting a from b. New b is:
+418644
+b >= a, subtracting a from b. New b is:
+295188
+b >= a, subtracting a from b. New b is:
+171732
+b >= a, subtracting a from b. New b is:
+48276
+a > b, subtracting b from a. New a is:
+75180
+a > b, subtracting b from a. New a is:
+26904
+b >= a, subtracting a from b. New b is:
+21372
+a > b, subtracting b from a. New a is:
+5532
+b >= a, subtracting a from b. New b is:
+15840
+b >= a, subtracting a from b. New b is:
+10308
+b >= a, subtracting a from b. New b is:
+4776
+a > b, subtracting b from a. New a is:
+756
+b >= a, subtracting a from b. New b is:
+4020
+b >= a, subtracting a from b. New b is:
+3264
+b >= a, subtracting a from b. New b is:
+2508
+b >= a, subtracting a from b. New b is:
+1752
+b >= a, subtracting a from b. New b is:
+996
+b >= a, subtracting a from b. New b is:
+240
+a > b, subtracting b from a. New a is:
+516
+a > b, subtracting b from a. New a is:
+276
+a > b, subtracting b from a. New a is:
+36
+b >= a, subtracting a from b. New b is:
+204
+b >= a, subtracting a from b. New b is:
+168
+b >= a, subtracting a from b. New b is:
+132
+b >= a, subtracting a from b. New b is:
+96
+b >= a, subtracting a from b. New b is:
+60
+b >= a, subtracting a from b. New b is:
+24
+a > b, subtracting b from a. New a is:
+12
+b >= a, subtracting a from b. New b is:
+12
+b >= a, subtracting a from b. New b is:
+0
+The GCD is:
+12

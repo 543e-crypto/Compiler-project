@@ -1,0 +1,6 @@
+IDs for function absv:
+ x: INT
+
+IDs for global:
+ absv: FUNC
+

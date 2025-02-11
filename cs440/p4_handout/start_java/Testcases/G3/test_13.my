@@ -1,0 +1,10 @@
+a = input()
+b = input()
+c = a+b
+
+print("a=")
+print(a)
+print("\nb=")
+print(b)
+print("\nc=")
+print(c)

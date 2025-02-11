@@ -1,0 +1,3 @@
+x = false !boolean var
+print(x) !print 0
+

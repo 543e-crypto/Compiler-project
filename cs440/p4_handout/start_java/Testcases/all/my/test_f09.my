@@ -1,0 +1,7 @@
+def func1(x):
+  temp = x*2
+  print(temp)
+fed
+
+temp = 1
+func1(temp)

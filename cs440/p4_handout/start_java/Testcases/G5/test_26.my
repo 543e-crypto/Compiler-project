@@ -1,0 +1,30 @@
+! computes the product of three pos number
+! gonna give 0 if negative num in input
+
+mult_a = input()
+mult_b = input()
+mult_c = input()
+
+product = 0
+temp_a = mult_a
+while temp_a > 0:
+    temp_b = mult_b
+    while temp_b > 0:
+        temp_c = mult_c
+        while temp_c > 0:
+            product = product+1
+            temp_c = temp_c-1
+        elihw
+        temp_b = temp_b-1
+    elihw
+    temp_a = temp_a - 1
+elihw
+
+print("===========")
+print(mult_a)
+print("*")
+print(mult_b)
+print("*")
+print(mult_c)
+print("=")
+print(product)

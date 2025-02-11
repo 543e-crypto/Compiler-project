@@ -1,0 +1,10 @@
+def fun_no_param_n_return():
+    print("No param...No return...")
+    a = 100
+    b = 20
+    print(a+b)
+fed
+
+a = 0
+b = 0
+fun_no_param_n_return()

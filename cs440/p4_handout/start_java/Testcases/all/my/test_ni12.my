@@ -1,0 +1,9 @@
+y=15
+
+x=2*y
+
+z=y+1
+
+print(y)
+print(x)
+print(z)

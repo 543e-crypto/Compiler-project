@@ -1,0 +1,40 @@
+print("Enter limit:")
+limit = input()
+
+print("Input limit:")
+print(limit)
+
+if limit < 2:
+    print("No primes below 2.")
+fi
+
+if limit >= 2:
+    print("=== Primes up to the limit ===")
+    
+    num = 2
+    while num <= limit:
+        is_prime = true
+        divisor = 2
+
+        while divisor <= num - 1:  ! Check all numbers below num
+            remainder = num
+            while remainder >= divisor:  ! Simulate num % divisor
+                remainder = remainder - divisor
+            elihw
+
+            if remainder == 0:
+                is_prime = false
+            fi
+
+            divisor = divisor + 1
+        elihw
+
+        if is_prime:
+            print(num)
+        fi
+
+        num = num + 1
+    elihw
+
+    print("=== Processing Complete ===")
+fi

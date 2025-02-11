@@ -1,0 +1,7 @@
+x = 5
+while false:
+   print(x)
+   x = x +1
+elihw !print nothing
+print(x) !print 5
+

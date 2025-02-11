@@ -1,0 +1,23 @@
+def calc_b():
+    a = 1010
+    b = 2020
+    c = 3030
+    d = b
+    print("calc_b returning...")
+fed
+
+a = 1
+b = 10
+c = b + a
+d = b
+
+calc_b()
+
+print("a=")
+print(a)
+print("\nb=")
+print(b)
+print("\nc=")
+print(c)
+print("\nd=")
+print(d)

@@ -1,0 +1,9 @@
+x=1
+y=5+70
+z=x+y
+m=z
+
+print(x)
+print(y)
+print(z)
+print(m)

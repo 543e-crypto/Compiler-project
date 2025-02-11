@@ -1,0 +1,17 @@
+def g():
+	return 3 + 4
+fed
+
+def f(x):
+  return x*2
+fed
+
+print(100)
+! this is a comment
+print(f())  !also a comment
+x = input()
+if x<=5:
+   print("less than or equal")
+else
+   print("greater than")
+fi

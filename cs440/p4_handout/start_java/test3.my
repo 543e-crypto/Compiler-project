@@ -1,0 +1,42 @@
+x = 0
+y = 0
+z = 0
+k = 0
+print (x < 0)
+print (x+1)
+print (y < 0)
+print (y+1)
+print (z < 0)
+print (z+1)
+print (k < 0)
+print (k+1)
+
+x=1
+while x<10:
+  print(x)
+  y = x / 2
+  if (y*2 == x):
+    print(":even")
+  else:
+    print(":odd")
+  fi
+  x = x + 1
+elihw
+
+x = 5
+y = 2
+z = 3
+if x > y:
+    if x > z:
+        m = x
+    else:
+       m = z
+    fi
+else: 
+    if y > z:
+       m = y
+    else:
+       m = z
+    fi
+fi
+print (m)

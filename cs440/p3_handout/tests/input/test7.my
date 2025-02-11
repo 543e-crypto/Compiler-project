@@ -1,0 +1,25 @@
+!start
+def f1(n,m,p):
+  print(3)
+  f1 (n, m, p+1)  
+  return n / m + (- p) 
+fed
+
+def f2(x):
+  !2nd function
+  y = input()
+  n = y/2 - x
+  n1 = n*3+1
+  n = f1(y,n1,2)
+  return n
+fed
+
+def g(y_1, y_2, y_3, y_4, y_5):
+  y_12_total = y_1 + y_2
+  cs440 = f1(f2(y_3), f2(y_4), y_5*2) !"also a comment"
+	print(cs440)
+fed
+
+x = input()
+g(x, x+1, x, x+2, x)
+print (f2(x))

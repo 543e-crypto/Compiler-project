@@ -1,0 +1,11 @@
+!iterative factorial
+def fact(n):
+  i = 1
+  while n>=i:
+    i = i*n
+    n = n-1
+  elihw
+  return i
+fed
+print(fact(4))
+

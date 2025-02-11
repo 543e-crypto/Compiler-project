@@ -1,0 +1,6 @@
+print(1+2)
+print("hello world!") !#$& anything in comments are fine
+print("&$# - in strings are also fine")
+print(9%3) !invalid %
+print(@) !not able to reach here
+

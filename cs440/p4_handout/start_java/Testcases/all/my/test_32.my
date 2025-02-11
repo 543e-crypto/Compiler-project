@@ -1,0 +1,15 @@
+def func_1(a,b):
+    return a+b
+fed
+
+def func_2(a,b,c,d):
+    print("func_1(a,b)")
+    print(func_1(a,b))
+    print("func_1(c,d)")
+    print(func_1(c,d))
+    return func_1(func_1(a,b), func_1(c,d))
+fed
+
+
+print("func_2(10,20,30,40)")
+print(func_2(10,20,30,40))

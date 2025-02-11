@@ -1,0 +1,12 @@
+x = 1
+while x<10:
+  print(x)
+  y = x / 2
+  if (y*2 == x):
+    print(":even")
+  else:
+    print(":odd")
+  fi
+  x = x + 1
+elihw
+

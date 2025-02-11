@@ -1,0 +1,12 @@
+x=4
+y=5
+
+if (x<=y):
+   if (x==y):
+      print("case 1") 
+   fi
+   if (x<y):
+      print("case 2")
+   fi
+fi
+

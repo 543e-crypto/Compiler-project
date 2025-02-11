@@ -1,0 +1,31 @@
+counter = 100
+counter_b = 0
+print("start")
+
+while counter >= 0:
+    print("counter-- counter_b++")
+    counter = counter-1
+    counter_b = counter_b + 1
+elihw
+
+print("Done")
+
+while counter_b >= 0:
+    print("counter++ counter_b--")
+    counter_b = counter_b -1
+    counter = counter + 1
+elihw
+
+print("Done")
+print("=====LAST LOOP=====")
+
+while counter-counter_b > 1:
+    print(counter)
+    print(counter_b)
+    print("==========")
+    counter = counter-1
+    counter_b = counter_b+1
+elihw
+
+
+print("OVer")

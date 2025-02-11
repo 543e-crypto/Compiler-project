@@ -1,0 +1,10 @@
+counter = 20
+print("start")
+
+
+while (counter >= 0):
+    print(counter)
+    counter = counter-1
+elihw
+
+print("Done")

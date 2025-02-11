@@ -1,0 +1,20 @@
+def decrement(x):
+  return x - 1
+fed
+
+def increment(x):
+  return x + 1
+fed
+
+def compute(x,y) :
+  sum = y
+  while x > 0:
+    sum = increment(sum)
+    x = decrement(x)
+  elihw
+  return sum
+fed
+
+print (compute(compute(10,20),compute(3,2))) !should print 35
+
+

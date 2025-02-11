@@ -1,0 +1,26 @@
+a = input()
+flag = true
+print("a is:")
+
+if a < 100:
+    a = 101
+    flag = false
+    print("a < 100... assigning 101 to a...")
+else:
+    a = a   ! do nothing
+fi
+
+if a>110:
+    a = 109
+    flag = false
+    print("a > 110, assigning 109")
+fi
+
+print("a is:")
+print(a)
+
+if flag:
+    print("Wow!!!")     ! See if you can find an input to hit this loc...
+else:
+    print("nah...try again...")
+fi

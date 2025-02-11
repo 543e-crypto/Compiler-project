@@ -1,0 +1,11 @@
+x=true
+y=false
+
+if (y):
+   print(1) 
+fi
+
+if (x):
+   print(2)
+fi
+

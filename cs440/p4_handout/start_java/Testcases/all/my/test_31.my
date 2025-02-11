@@ -1,0 +1,9 @@
+def fun_one_param(a):
+    print(a)
+    print("No param...No return...")
+    print(a*a)
+fed
+
+a = 100
+
+fun_one_param(a)

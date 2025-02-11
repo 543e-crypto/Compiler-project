@@ -1,0 +1,13 @@
+Function f1: Line 1
+ n: Line 3
+ m: Line 3
+
+Function f2: Line 6
+ y: Line 8
+ f1: Line 7
+ n: Line 9
+ n1: Line 10
+
+Global: Line 13
+ x: Line 14
+ f2: Line 14

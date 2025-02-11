@@ -1,0 +1,37 @@
+x = true
+print(x) !print 1
+print(5 >= 7) !print 0
+x = 5
+y = 7
+print(x == y) !print 0
+print(y==x) !print 0
+print (y<>x) !print 1
+print(x<>y) !print 1
+print(y<>x) !print 1
+print(x<y) !print 1
+print (y<x) !print 0
+print(x<=y) !print 1
+print (y<=x) !print 0
+print(x>y) !print0
+print (y>x) !print 1
+print(x >= y) !print 0
+print (y>=x) !print 1
+z = input()
+print(z) !print z
+x = input() !enter 5
+y = input() !enter 4
+print(x+y) !print 9
+print(x < y) !print 0
+print(5<3)
+if (3 < 5):
+    x = 5
+    if (x == 10):
+       y = 10
+       print(y)
+    else:
+       print("error")
+    fi
+else:
+    x = 45
+fi
+print(x + 55) !print 100

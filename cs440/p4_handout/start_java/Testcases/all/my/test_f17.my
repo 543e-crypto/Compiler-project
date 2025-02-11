@@ -1,0 +1,19 @@
+def max(x,y,z) :
+  if x > y:
+     if x > z:
+       m = x
+     else:
+       m = z
+     fi
+  else: 
+     if y > z:
+       m = y
+     else:
+       m = z
+     fi
+  fi
+  return m
+fed
+
+print (max(1,2,3))  
+

@@ -1,0 +1,9 @@
+IDs for global:
+ s: STRING
+ x: INT
+ b1: BOOL
+ y: INT
+ z: INT
+ t: STRING
+ b2: BOOL
+

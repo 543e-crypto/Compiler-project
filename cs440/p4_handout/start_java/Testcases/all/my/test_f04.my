@@ -1,0 +1,8 @@
+def func1(x, y, z):
+  print(x)
+  print(y)
+  print(z)
+fed
+
+func1(1,2,3)
+func1(45,67,89)

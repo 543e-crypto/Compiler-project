@@ -1,0 +1,4 @@
+"one string\n"  
+"" !empty string
+"string with \" escaped"
+"string 1 with special chars: +()>= true""string 2" !two strings on the same line

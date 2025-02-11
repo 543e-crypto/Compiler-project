@@ -1,0 +1,7 @@
+def print_it(i,j) :
+  n = 3 * j + i
+  return  n+1   
+fed
+y = 2
+print(print_it(5,y))
+print(print_that(2,y)) !undefined func

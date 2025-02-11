@@ -1,0 +1,6 @@
+Checking if the numbers can form a triangle:
+100
+1
+10
+The numbers cannot form a triangle. b + c <= a
+Triangle validation failed.

@@ -1,0 +1,11 @@
+IDs for function fact:
+ n: INT
+ i: INT
+ b: BOOL
+
+IDs for global:
+ fact: FUNC
+ prompt: STRING
+ y: INT
+ result: INT
+

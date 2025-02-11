@@ -1,0 +1,25 @@
+print("Enter two numbers:")
+a = input()
+b = input()
+
+print("Initial values:")
+print(a)
+print(b)
+
+if a*b==0:
+    print("GCD is undefined for zero input.")
+else:
+    while b <> 0:
+        if a > b:
+            a = a - b
+            print("a > b, subtracting b from a. New a is:")
+            print(a)
+        else:
+            b = b - a
+            print("b >= a, subtracting a from b. New b is:")
+            print(b)
+        fi
+    elihw
+    print("The GCD is:")
+    print(a)
+fi

@@ -1,0 +1,6 @@
+def print_it() :
+  ! This is a comment
+  print(1) 
+fed
+
+print_it() !output 1

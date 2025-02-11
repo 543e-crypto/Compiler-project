@@ -1,0 +1,14 @@
+!iterative factorial; no function
+prompt = "please enter a positive int <=12: "
+print(prompt)
+n = input()
+i = 1
+ans = 1
+b = i<=n
+while b:
+  ans = ans * i
+  i = i + 1
+  b = i<=n
+elihw
+print(ans)
+

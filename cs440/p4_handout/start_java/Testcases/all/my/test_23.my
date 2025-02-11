@@ -1,0 +1,12 @@
+counter = -1
+
+print("start")
+
+False_ = false
+
+while False_:
+    print(counter)
+    counter = counter-1
+elihw
+
+print("Done")

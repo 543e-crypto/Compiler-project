@@ -1,0 +1,9 @@
+def func1():
+  variable=3
+  x=variable+12
+  print(x)
+fed
+
+variable = 21
+func1()
+print(variable)

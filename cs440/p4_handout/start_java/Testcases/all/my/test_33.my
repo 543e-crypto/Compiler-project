@@ -1,0 +1,15 @@
+def func(a,b,c,d,e,f):
+
+    z1 = a + b
+    z2 = b + c
+    z3 = c + d
+    z4 = d + e
+    z5 = e + f
+    z6 = f + a
+    print(z1+z2+z3+z4+z5+z6)
+    return (z1+z2+z3+z4+z5+z6)
+fed
+
+
+print("calling func(1,2,3,4,5,6)")
+return func(1,2,3,4,5,6)

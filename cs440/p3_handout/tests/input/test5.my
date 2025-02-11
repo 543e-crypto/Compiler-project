@@ -1,0 +1,13 @@
+def f(n):
+    return n
+fed
+
+def g(m):
+    return m
+fed
+
+!global starts next
+x = input()
+print(x)
+f(g(x))
+print("escape\" with backslash")

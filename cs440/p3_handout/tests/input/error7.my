@@ -1,0 +1,6 @@
+def print_it(i,j) :
+  n = 3 * j + i
+  return m * n   !undefined var
+fed
+y = 2
+print(print_it(5,y))

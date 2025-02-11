@@ -1,0 +1,15 @@
+def func1(x):
+  if x>3:
+    return 5
+  fi
+  if x==3:
+    return 3
+  else:
+    return 0
+  fi
+  return -1
+fed
+
+print(func1(13))
+print(func1(3))
+print(func1(1))

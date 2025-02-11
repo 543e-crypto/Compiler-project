@@ -1,0 +1,6 @@
+x = 1 + 2
+x = x == 3
+z = "1" + "4"
+w = input()
+print(w)
+u = true

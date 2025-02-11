@@ -1,0 +1,13 @@
+!nested if
+def absv(x):
+  if x < 0:
+    return -x
+  else:
+    if x >= 0 :
+       return x
+    fi
+  fi
+fed
+print (absv(2))
+print (absv(-3))
+

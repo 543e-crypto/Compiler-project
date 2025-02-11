@@ -1,0 +1,10 @@
+def f():
+    return 1
+fed
+
+def f(n):!function names must be unique
+    return n
+fed
+
+f(2)
+

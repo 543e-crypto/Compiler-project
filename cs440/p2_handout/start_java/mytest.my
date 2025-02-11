@@ -1,0 +1,14 @@
+def f1(g,n):
+	x_1 = g
+	x_2 = n
+	return g+n
+fed
+
+def f2(x,m):
+	y = x+1
+	z = m+1
+	print(y+z)
+	f2 (x-1, m)
+fed
+
+f1(f2(4,3), 5)

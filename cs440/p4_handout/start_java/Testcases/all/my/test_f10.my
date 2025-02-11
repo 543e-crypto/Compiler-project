@@ -1,0 +1,19 @@
+def print_one():
+  num = 1
+  print(num)
+fed
+
+def print_two():
+  num = 2
+  print(num)
+fed
+
+def func3(x):
+  print(x)
+fed
+
+print_one() !output 1
+print_two() !output 2
+func3(3)
+func3(4)
+

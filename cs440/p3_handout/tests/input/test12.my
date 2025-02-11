@@ -1,0 +1,17 @@
+!iterative factorial w/ more types
+def fact(n):
+  i = 1
+  b = n>=i
+  while b:
+    i = i*n
+    n = n-1
+    b = n>=i
+  elihw
+  return i
+fed
+prompt = "please enter a positive int:\n"
+print(prompt)
+y = input()
+result = fact(y)
+print(result)
+

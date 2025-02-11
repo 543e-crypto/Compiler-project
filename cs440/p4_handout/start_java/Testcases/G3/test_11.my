@@ -1,0 +1,10 @@
+a = 10
+b = a + 10
+c = a+b/a
+d = c
+d = d*1 + c 
+
+print(a - 10 + 10)
+print(b)
+print(c *1 / 1)
+print(d)

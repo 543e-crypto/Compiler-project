@@ -1,0 +1,12 @@
+def func1(x):
+  while x>3:
+    if x==4:
+	    return 2
+    fi
+	  x=x-1
+  elihw
+  return 0
+fed
+
+print(func1(0))
+print(func1(5))

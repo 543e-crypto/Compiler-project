@@ -1,0 +1,13 @@
+x = -5
+y = 5
+while x<=-3:
+   print(x)
+   x = x +1
+elihw !print -5, -4, -3 on separate lines
+print(x) !print -2
+
+while y<>3:
+   print(y)
+   y = y-1
+elihw !print 5 and 4 on separate lines
+print(y) !print 3

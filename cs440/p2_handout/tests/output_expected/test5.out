@@ -1,0 +1,10 @@
+Function f: Line 1
+ n: Line 2
+
+Function g: Line 5
+ m: Line 6
+
+Global: Line 10
+ x: Line 12
+ f: Line 12
+ g: Line 12

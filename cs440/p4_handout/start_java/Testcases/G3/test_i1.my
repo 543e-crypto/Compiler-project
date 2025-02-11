@@ -1,0 +1,4 @@
+x = input() 
+print(0-x) 
+y = input()
+print(y*31)

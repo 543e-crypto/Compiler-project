@@ -1,0 +1,14 @@
+Enter two numbers:
+Initial values:
+25
+100
+b >= a, subtracting a from b. New b is:
+75
+b >= a, subtracting a from b. New b is:
+50
+b >= a, subtracting a from b. New b is:
+25
+b >= a, subtracting a from b. New b is:
+0
+The GCD is:
+25

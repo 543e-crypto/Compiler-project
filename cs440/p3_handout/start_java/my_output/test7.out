@@ -1,0 +1,26 @@
+IDs for function f1:
+ n: INT
+ m: INT
+ p: INT
+
+IDs for function f2:
+ x: INT
+ y: INT
+ n: INT
+ n1: INT
+
+IDs for function g:
+ y_1: INT
+ y_2: INT
+ y_3: INT
+ y_4: INT
+ y_5: INT
+ y_12_total: INT
+ cs440: INT
+
+IDs for global:
+ f1: FUNC
+ f2: FUNC
+ g: FUNC
+ x: INT
+

@@ -1,0 +1,14 @@
+IDs for function f1:
+ n: INT
+ m: INT
+
+IDs for function f2:
+ y: INT
+ n: INT
+ n1: INT
+
+IDs for global:
+ f1: FUNC
+ f2: FUNC
+ x: INT
+

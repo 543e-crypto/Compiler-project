@@ -1,0 +1,7 @@
+def f():
+    m = 1+2
+    return 30
+fed
+
+n = f()
+print(n+1)

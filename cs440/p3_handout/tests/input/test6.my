@@ -1,0 +1,16 @@
+def f1(n):
+  m = n / 2 * 2 
+  return n+m
+fed
+
+def f2(y):
+    print (f1(y))
+    n = y/2
+    n1 = n*3+1
+    return n1
+fed
+
+x = input()
+print (f2(x))
+! this is a comment
+

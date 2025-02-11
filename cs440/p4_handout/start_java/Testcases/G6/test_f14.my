@@ -1,0 +1,9 @@
+def f1(x):
+  return x*2
+fed
+
+def f2(x,z):
+  return x+z
+fed
+
+print(f1(f2(3,4))) !prints 14

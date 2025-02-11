@@ -1,0 +1,6 @@
+IDs for function fact:
+ n: INT
+
+IDs for global:
+ fact: FUNC
+

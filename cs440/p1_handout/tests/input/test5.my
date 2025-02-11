@@ -1,0 +1,21 @@
+!function foo
+def foo (): return 0 fed
+
+def bar (x, y): !function bar 
+  return x+y
+fed 
+
+!lots of lines below are not allowed in mython grammar
+! but we are only checking lexical rules in p1 ...
+def fed 
+def 123
+def def me def print 
+def ( george_mason
+def == us
+def once twice
+def once fed
+def bar (): !redefined ID
+   return 0
+fed
+
+return bar()

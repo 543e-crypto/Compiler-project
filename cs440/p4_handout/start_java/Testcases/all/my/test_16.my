@@ -1,0 +1,10 @@
+a = 100 < 99        ! 0
+b = 100 > 99        ! 1
+d = (a<>b)          ! 1
+
+print("Expected: \n0\n1\n1")
+
+print("Actual")
+print(a)
+print(b)
+print(d)

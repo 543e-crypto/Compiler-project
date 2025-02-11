@@ -1,0 +1,32 @@
+a = input()
+b = input()
+c = input()
+flag = true
+
+print("Checking if the numbers can form a triangle:")
+print(a)
+print(b)
+print(c)
+
+if a + b > c:
+    if b + c > a:
+        if c + a > b:
+            print("The numbers can form a triangle.")
+        else:
+            flag = false
+            print("The numbers cannot form a triangle. c + a <= b")
+        fi
+    else:
+        flag = false
+        print("The numbers cannot form a triangle. b + c <= a")
+    fi
+else:
+    flag = false
+    print("The numbers cannot form a triangle. a + b <= c")
+fi
+
+if flag:
+    print("Triangle validation successful.")
+else:
+    print("Triangle validation failed.")
+fi

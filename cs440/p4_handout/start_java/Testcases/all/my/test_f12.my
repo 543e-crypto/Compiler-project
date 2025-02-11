@@ -1,0 +1,6 @@
+def f1(x):
+  print(x)
+fed
+
+f1((1+12-4)*3) !prints 27
+

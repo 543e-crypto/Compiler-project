@@ -1,0 +1,94 @@
+def func6(a, b, c, d, e, f):
+    print("=> IN func6:")
+    z1 = a
+    z2 = b
+    z3 = c
+    z4 = d
+    z5 = e
+    z6 = f
+    print("First Param")
+    print(a)
+    print("Sum")
+    print(z1 + z2 + z3 + z4 + z5 + z6)
+    ! No further calls, end recursion
+fed
+
+def func5(a, b, c, d, e, f):
+    print("=> IN func5:")
+    z1 = a
+    z2 = b
+    z3 = c
+    z4 = d
+    z5 = e
+    z6 = f
+    print("First Param")
+    print(a)
+    print("Sum")
+    print(z1 + z2 + z3 + z4 + z5 + z6)
+    func6(b, c, d, e, f, a)  ! Rotate arguments
+fed
+
+def func4(a, b, c, d, e, f):
+    print("=> IN func4:")
+    z1 = a
+    z2 = b
+    z3 = c
+    z4 = d
+    z5 = e
+    z6 = f
+    print("First Param")
+    print(a)
+    print("Sum")
+    print(z1 + z2 + z3 + z4 + z5 + z6)
+    func5(b, c, d, e, f, a)  ! Rotate arguments
+fed
+
+def func3(a, b, c, d, e, f):
+    print("=> IN func3:")
+    z1 = a
+    z2 = b
+    z3 = c
+    z4 = d
+    z5 = e
+    z6 = f
+    print("First Param")
+    print(a)
+    print("Sum")
+    print(z1 + z2 + z3 + z4 + z5 + z6)
+    func4(b, c, d, e, f, a)  ! Rotate arguments
+fed
+
+def func2(a, b, c, d, e, f):
+    print("=> IN func2:")
+    z1 = a
+    z2 = b
+    z3 = c
+    z4 = d
+    z5 = e
+    z6 = f
+    print("First Param")
+    print(a)
+    print("Sum")
+    print(z1 + z2 + z3 + z4 + z5 + z6)
+    func3(b, c, d, e, f, a)  ! Rotate arguments
+fed
+
+def func1(a, b, c, d, e, f):
+    print("=> IN func1:")
+    z1 = a
+    z2 = b
+    z3 = c
+    z4 = d
+    z5 = e
+    z6 = f
+    print("First Param")
+    print(a)
+    print("Sum")
+    print(z1 + z2 + z3 + z4 + z5 + z6)
+    func2(b, c, d, e, f, a)  ! Rotate arguments
+fed
+
+
+
+print("calling func1(1, 2, 3, 4, 5, 6)")
+func1(1, 2, 3, 4, 5, 6)

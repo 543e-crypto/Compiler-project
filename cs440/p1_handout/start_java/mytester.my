@@ -1,0 +1,6 @@
+
+    if len(arr) > 1:
+        ! Find the middle point and divide the array into two halves
+        mid = len(arr) // 2
+        left_half = arr(:mid)
+        right_half = arr(mid:)

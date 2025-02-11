@@ -1,0 +1,15 @@
+def print_one() :
+  ! This is a comment
+  num = 1
+  print(num)
+fed
+
+def print_two() :
+  ! This is a comment
+  num = 2
+  print(num)
+fed
+
+print_one() !output 1
+print_two() !output 2
+
